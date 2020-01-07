@@ -1,0 +1,2 @@
+Step 1  : Make a file shell.py which runsa an infinite loop to work as a terminal
+Step 2  : Create a lexer, A lexer will go through input character by character and will give us tokens(Object with some type)
